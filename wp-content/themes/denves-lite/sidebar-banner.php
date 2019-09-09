@@ -1,0 +1,1 @@
+<?php do_action( 'denves_lite_banner_sidebar'); ?>
